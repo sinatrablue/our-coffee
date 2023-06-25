@@ -1,0 +1,13 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  padding-inline: 2rem;
+}
+
+.coffee-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-block: 5cqh;
+  padding-inline: 20cqw;
+}
